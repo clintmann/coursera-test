@@ -48,7 +48,7 @@ p {
   padding-top: 50px;
 }
 #box1 {
-  background-color: grey;
+  background-color: #FFA500;
   color: white;
   float : right;
   position: relative;
@@ -58,7 +58,7 @@ p {
   right: 10px;
  }
 #box2 {
-  background-color: grey;
+  background-color: #CD5C5C;
   color: white;
   float : right;
   position: relative;
@@ -67,7 +67,7 @@ p {
   right: 10px;
 }
 #box3 {
-  background-color: grey;
+  background-color: #808080;
   color: white;
   float : right;
   position: relative;
